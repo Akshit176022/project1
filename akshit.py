@@ -1,0 +1,1 @@
+print("hi akshit i love you")
